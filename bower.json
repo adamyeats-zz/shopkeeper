@@ -1,0 +1,22 @@
+{
+  "name": "shopkeeper",
+  "main": "shopkeeper.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adamyeats/shopkeeper",
+  "authors": [
+    "Adam Yeats <ay@adam.yt>"
+  ],
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
